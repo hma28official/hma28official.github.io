@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <a
-        href="https://github.com/hma28official/rest-countries-api-reactjs"
+        href="https://github.com/hma28official/hma28official.github.io"
         target="_blank"
         rel="noopener noreferrer"
       >
