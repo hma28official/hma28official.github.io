@@ -25,7 +25,7 @@ const Header = () => {
   return (
     <div className="header">
       <h1>
-        <Link to="/">Where in the world?</Link>
+        <Link to="/">List of Countries</Link>
       </h1>
 
       <button onClick={switchTheme}>
