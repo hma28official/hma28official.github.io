@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58f5f38a.chunk.css",
+    "main.js": "/static/js/main.ef584283.chunk.js",
+    "main.js.map": "/static/js/main.ef584283.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5143333c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5143333c.js.map",
+    "static/js/2.7d9f6bcd.chunk.js": "/static/js/2.7d9f6bcd.chunk.js",
+    "static/js/2.7d9f6bcd.chunk.js.map": "/static/js/2.7d9f6bcd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.58f5f38a.chunk.css.map": "/static/css/main.58f5f38a.chunk.css.map",
+    "static/js/2.7d9f6bcd.chunk.js.LICENSE.txt": "/static/js/2.7d9f6bcd.chunk.js.LICENSE.txt",
+    "static/media/arrow-back.39940f16.svg": "/static/media/arrow-back.39940f16.svg",
+    "static/media/chevron-down.6e2c90ee.svg": "/static/media/chevron-down.6e2c90ee.svg",
+    "static/media/close-outline.a22b61b1.svg": "/static/media/close-outline.a22b61b1.svg",
+    "static/media/logo-github.bdd8bb6b.svg": "/static/media/logo-github.bdd8bb6b.svg",
+    "static/media/moon-filled.b23d5034.svg": "/static/media/moon-filled.b23d5034.svg",
+    "static/media/moon.1d93a65e.svg": "/static/media/moon.1d93a65e.svg",
+    "static/media/search.637c6b3c.svg": "/static/media/search.637c6b3c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5143333c.js",
+    "static/js/2.7d9f6bcd.chunk.js",
+    "static/css/main.58f5f38a.chunk.css",
+    "static/js/main.ef584283.chunk.js"
+  ]
+}
